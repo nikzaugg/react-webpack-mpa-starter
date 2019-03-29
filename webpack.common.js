@@ -17,7 +17,7 @@ module.exports = {
 
   resolve: {
     alias: {
-      '../../theme.config': path.join(__dirname, 'my-semantic-theme/theme.config')
+      '../../theme.config': path.join(__dirname, 'theme/theme.config')
     }
   },
 
