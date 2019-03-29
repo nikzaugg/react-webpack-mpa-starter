@@ -4,4 +4,4 @@ Simple starter project for creating multipage apps with react and webpack. `npm 
 
 ## Authors
 
-* **Nik Zaugg** - *Initial work* - [PurpleBooth](https://github.com/nikzaugg)
+* [**Nik Zaugg**](https://github.com/nikzaugg) - *Initial work* - 
